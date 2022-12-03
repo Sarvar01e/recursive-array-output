@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "recursive array output", "recursive array output.csproj", "{F9FF8F40-3074-495A-A71A-0D8AB3234445}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9FF8F40-3074-495A-A71A-0D8AB3234445}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9FF8F40-3074-495A-A71A-0D8AB3234445}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9FF8F40-3074-495A-A71A-0D8AB3234445}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9FF8F40-3074-495A-A71A-0D8AB3234445}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A367780-F9A3-42F1-B14B-C2D196E0185F}
+	EndGlobalSection
+EndGlobal
