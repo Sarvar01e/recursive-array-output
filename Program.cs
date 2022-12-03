@@ -5,9 +5,9 @@
         static void Main(string[] args)
         {
             int[] array = { 1, 2, 3, 4, 5 };
-           // arrayoutput(array);
+            arrayoutput(array);
             int a = 515;
-            //sumreturner(ref a);
+            sumreturner(ref a);
             string value = Console.ReadLine();
             summer(ref value);
      
